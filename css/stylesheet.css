@@ -1,0 +1,20 @@
+body {
+    background-color: pink;
+}
+
+* {
+    color:cornflowerblue;
+}
+
+h1 {
+    color:darkblue;
+    background-color: rgb(194, 218, 194);
+}
+
+p {
+    color: #ffffff;
+}
+
+.animal {
+    font-family: 'Berkshire Swash';font-size: 36px;
+}
